@@ -1,5 +1,5 @@
 # HOMAcalc v1.0
-![HOMAcalc_icon](HOMAcalc_icon.png)
+![HOMAcalc_icon](HOMAcalc_icon_full.png)
 
 HOMAcalc is a Python program for calculating HOMA value of ring system.
 
