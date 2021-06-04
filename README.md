@@ -1,4 +1,4 @@
-# HOMAcalc v1.0
+# HOMAcalc v2.0
 ![HOMAcalc_icon](HOMAcalc_icon_full.png)
 
 HOMAcalc is a Python program for calculating HOMA value of ring system.
@@ -12,6 +12,9 @@ Author: Zhe Wang
 ORCiD: [0000-0002-9996-586X](https://orcid.org/0000-0002-9996-586X)
 
 ## Update history
+### v2.0 (2021-06-04)
+HOMAcalc can calculate HOMA value of heterocyclic compounds now!
+
 ### v1.0 (2021-05-25)
 1. User can choose to continue the calculation after the first HOMA calculation.
 2. Bugs fix.
