@@ -12,7 +12,7 @@ Author: Zhe Wang
 ORCiD: [0000-0002-9996-586X](https://orcid.org/0000-0002-9996-586X)
 
 ## Update history
-### v2.0 (2021-06-04)
+### v2.0 (2021-06-03)
 HOMAcalc can calculate HOMA value of heterocyclic compounds now!
 
 ### v1.0 (2021-05-25)
